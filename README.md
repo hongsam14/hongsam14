@@ -1,4 +1,6 @@
-## Hi there 👋
+## This developer is slightly more skilled than a snail
+<img width="235" height="180" alt="image" src="https://github.com/user-attachments/assets/ced089e2-57c9-4e5b-bcb4-c3344fb745e7" />
+
 
 <!--
 **hongsam14/hongsam14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
