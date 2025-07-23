@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://innovationacademy.kr/academy/contents/view?contentsNo=7&level=2&menuNo=8" target="_blank"><img src="http://www.w3.org/2000/svg"></a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hongsam14&show_icons=true&theme=radical)
